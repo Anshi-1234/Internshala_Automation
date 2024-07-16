@@ -1,0 +1,27 @@
+Project 1  (using Puppeteer vs Selenium)
+Internshala automation
+use to login with my name in internshala
+suppose I give count as 10 toh yeh top 10 companies pe apply kr deta,
+click on the link of the internships
+fill in all the information I had already given and then finally apply.
+
+
+
+Procedure
+login
+go to jobs tab
+
+
+profile filters 
+computer science , software development
+
+package : 10
+years of experience :
+Fresher
+Pick out top 5 and apply 
+
+
+
+
+
+
